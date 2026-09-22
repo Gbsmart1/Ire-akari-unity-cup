@@ -1,9 +1,4 @@
-# Ire-Akari Unity Cup — Lightweight Edition
-
-Optimized for GitHub Pages and mobile data:
-- Tournament poster resized and compressed as WebP.
-- Editorial gallery image converted to WebP.
-- Below-the-fold images remain lazy-loaded.
-- Same professional dark/gold design and WhatsApp registration link.
-
-Upload `index.html`, `style.css`, `script.js`, and the whole `assets` folder to your GitHub Pages repository.
+# Ire-Akari Unity Cup — Professional Website
+Upload all files and the `assets` folder to your GitHub Pages repository.
+WhatsApp registration/community link is already connected to the official group supplied in the request.
+Replace the placeholder email and social links in `index.html` before publishing.
